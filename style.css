@@ -2,9 +2,3 @@ table {
   background-color: palegreen
 }
 
- div {
-    background: #007E3E; /* Цвет фона */
-    color: #fff; /* Цвет текста */
-    padding: 10px; /* Поля вокруг текста */
-    border-radius: 5px; /* Уголки */
-   }
