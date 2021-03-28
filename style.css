@@ -1,4 +1,10 @@
-table {background-color: palegreen
+table {
+  background-color: palegreen
 }
-p     {background-color: lightblue
+p {
+  background-color: lightblue
 }
+footer a {
+   border-radius: 10px; 
+}
+  
